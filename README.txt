@@ -1,7 +1,7 @@
-#Note:
-#This is the draft solution to the assignment
-#All jenkins jobs will be setup/run through Jenkins UI or Jenkinscript
-#Docker image/container can be generated in Jenkins through Dockerfile
+# Note:
+# This is the draft solution to the assignment
+# All jenkins jobs will be setup/run through Jenkins UI or Jenkinscript
+# Docker image/container can be generated in Jenkins through Dockerfile
 ################################################################################
 
 Preparation:
