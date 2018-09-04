@@ -6,8 +6,8 @@
 
 Preparation:
   -hello microservice project source codes and pom.xml file is committed to Git
-  -Jenkins server is installed/configured on build server
-  -Base docker image has been generated including all necessary components
+  -Jenkins server is installed on build server and is configured with all necessary plugins (e.g. pipeline, maven, docker, etc.)
+  -Base docker image has been generated including all necessary components (e.g NGINX)
   -Test/demo/Production server can use AWS/Azure cloud servers or virual boxs or local servers
   -Local server is configured as master jenkins node and test/demo/production severs are confgiured as Jenkins slave nodes
 
